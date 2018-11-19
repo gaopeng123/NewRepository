@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/countDown/countDown",
+    "pages/onlineMeet/onlineMeet",
+    "pages/userInfo/userInfo",
+    "pages/audioReplay/audioReplay",
+    "pages/updateUserinfo/updateUserinfo",
+    "pages/newsRelease/newsRelease"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "乐高乐华业绩发布",
+    "navigationBarTextStyle": "white "
+  }
+}
